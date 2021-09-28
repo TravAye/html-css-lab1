@@ -1,0 +1,53 @@
+.head {
+  color: black;
+  font-size: 15px;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.button {
+  border: solid black 10px;
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  margin: 40%;
+  width: 50%;
+}
+
+li {
+  margin: 10px;
+  list-style-type: none;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.main {
+  border-left: solid black;
+  padding-left: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
+}
+
+footer * {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+footer {
+  background-color: peachpuff;
+  border: solid peachpuff;
+  bottom: 0%;
+  position: absolute;
+  width: 100%;
+}
+
+footer nav {
+  float: right;
+}
